@@ -18,7 +18,7 @@ Un petit programme Java qui permet de deviner un nombre aléatoire entre **0 et 
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/ton-utilisateur/GuessNum.git
+   git clone https://github.com/thomasr10/GuessNum.git
    cd GuessNum
    ```
 2. **Compiler le programme:**
